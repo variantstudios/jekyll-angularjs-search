@@ -1,0 +1,30 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+{
+
+    "records":    
+    [
+    {% for business in site.directory %}
+        {    
+        "Business": {{ business.Business | jsonify }},
+        "Street": {{ business.Street | jsonify }},
+        "City": {{ business.City | jsonify }},
+        "State": {{ business.State | jsonify }},
+        "Phone": {{ business.Phone | jsonify }},
+        "Fax": {{ business.Fax | jsonify }},
+        "Website": {{ business.Website | jsonify }},
+        "Description": {{ business.Description | jsonify }},
+        "Categories": {{ business.Categories | jsonify }},
+        "Contact Name": {{ business.Contact_Name | jsonify }},
+        "Contact Email": {{ business.Contact_Email | jsonify }},
+        "Coordinates": {{ business.Coordinates | jsonify }},
+        "Test": {{ business.Test | jsonify }},
+        "relative_path": "{{ business.relative_path }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+}

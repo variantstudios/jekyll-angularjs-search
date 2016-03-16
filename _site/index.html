@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Greeley DDA Serach</title>
+	
+
+</head>
+<body ng-app="mainApp">
+	<!-- <input type="text" ng-model="searchBox.$" placeholder="Global Search"><br> -->
+	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
+
+
+<select ng-model="searchBox.Test.name" >
+        <option value="">-- Select --</option>
+        <option value="test one">test one</option>
+        <option value="test two">test two</option>
+        <option value="test three">test three</option>
+    </select> 
+
+
+<!--  <select ng-model="searchBox.Categories" >
+        <option value="">-- Select --</option>
+        <option value="Media, Web & Graphic Design">Media, Web & Graphic Design</option>
+        <option value="American/Night Life/Restaurants & Bars">American/Night Life/Restaurants & Bars</option>
+        <option value="Tattoos">Tattoos</option>
+    </select> -->
+
+	<div data-ng-controller="DirectoryCtrl">
+
+		<a name="top"></a>
+		<ul>
+			<li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:2 | orderBy:'Business'">
+				<h3 data-ng-bind="business.Business" class="business"></h3>
+				
+				<p><span data-ng-bind="business.Street" class="street"></span><br>
+				<span data-ng-bind="business.City" class="city"></span>, 
+				<span data-ng-bind="business.State" class="state"></span>
+				<span data-ng-bind="business.Zip" class="zip"></span></p>
+
+				<p data-ng-bind="business.Website" class="website"></p>
+				<p data-ng-bind="business.Phone" class="phone"></p>
+
+				<div data-ng-repeat="item in business.Test">
+					<p data-ng-bind="item.name"></p>
+				</div>
+
+
+			</li>
+		</ul>	
+		<dir-pagination-controls
+					max-size="5"
+					direction-links="false"
+					boundary-links="false">
+		</dir-pagination-controls>
+		
+
+	</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js" ></script>
+	<script src="assets/js/controller.js"></script>
+	<script src="assets/js/dirPagination.js"></script>
+</body>
+</html>
