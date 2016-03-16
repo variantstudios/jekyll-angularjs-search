@@ -31,6 +31,8 @@ collections:
     output: true
     permalink: /directory/:title/
 
+defaults:
+
 Tests:
   - Red
   - Blue
