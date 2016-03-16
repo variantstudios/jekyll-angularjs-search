@@ -16,7 +16,7 @@
         "Contact Name": "Damon Sasso",
         "Contact Email": "damon@1310kfka.com",
         "Coordinates": "40.424728, -104.696194",
-        "Test": [{"name":"test one"},{"name":"test two"}],
+        "Tests": ["Red","Blue"],
         "relative_path": "_directory/1310-KFKA.md"
         }
         ,
@@ -34,7 +34,7 @@
         "Contact Name": "Tim Veldhuizen",
         "Contact Email": "1908speakeasy@gmail.com",
         "Coordinates": "40.424141, -104.691204",
-        "Test": [{"name":"test one"}],
+        "Tests": ["Green"],
         "relative_path": "_directory/1908-Speakeasy.md"
         }
         ,
@@ -52,8 +52,26 @@
         "Contact Name": "Tim Corley & Heidi Unger",
         "Contact Email": "",
         "Coordinates": "40.413906, -104.693440",
-        "Test": [{"name":"test one"},{"name":"test two"},{"name":"test three"}],
+        "Tests": ["Blue"],
         "relative_path": "_directory/2nd-Millennium.md"
+        }
+        ,
+      
+        {    
+        "Business": "5 Star Industries",
+        "Street": "701 5th Street",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 378-0140",
+        "Fax": null,
+        "Website": "http://www.5starindustries.com/",
+        "Description": null,
+        "Categories": "Equipment & Storage Rental",
+        "Contact Name": "Ken Alverez",
+        "Contact Email": "ken@5starindustries.com",
+        "Coordinates": "40.428606, -104.688919",
+        "Tests": null,
+        "relative_path": "_directory/5-star-industries.md"
         }
         
       

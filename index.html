@@ -11,11 +11,11 @@
 	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
 
 
-<select ng-model="searchBox.Test.name" >
-        <option value="">-- Select --</option>
-        <option value="test one">test one</option>
-        <option value="test two">test two</option>
-        <option value="test three">test three</option>
+<select ng-model="searchBox.Tests" >
+        <option value="">- Any Category -</option>
+        <option value="Red">Red</option>
+        <option value="Blue">Blue</option>
+        <option value="Green">Green</option>
     </select> 
 
 
@@ -41,8 +41,8 @@
 				<p data-ng-bind="business.Website" class="website"></p>
 				<p data-ng-bind="business.Phone" class="phone"></p>
 
-				<div data-ng-repeat="item in business.Test">
-					<p data-ng-bind="item.name"></p>
+				<div data-ng-repeat="item in business.Tests">
+					<p data-ng-bind="item"></p>
 				</div>
 
 

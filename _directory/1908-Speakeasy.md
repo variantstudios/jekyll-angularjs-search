@@ -14,6 +14,6 @@ Categories: "American/Night Life/Restaurants & Bars"
 Contact_Name: "Tim Veldhuizen"
 Contact_Email: "1908speakeasy@gmail.com"
 Coordinates: "40.424141, -104.691204"
-Test:
-  - name: test one
+Tests:
+  - Green
 ---

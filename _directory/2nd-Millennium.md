@@ -12,8 +12,6 @@ Categories: "Tattoos"
 Contact_Name: "Tim Corley & Heidi Unger"
 Contact_Email: ""
 Coordinates: "40.413906, -104.693440"
-Test:
-  - name: test one 
-  - name: test two
-  - name: test three
+Tests:
+  - Blue
 ---

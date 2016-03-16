@@ -21,7 +21,7 @@ sitemap:
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},
-        "Test": {{ business.Test | jsonify }},
+        "Tests": {{ business.Tests | jsonify }},
         "relative_path": "{{ business.relative_path }}"
         }
         {% unless forloop.last %},{% endunless %}
