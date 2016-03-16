@@ -1,5 +1,7 @@
 ---
 Business: 5 Star Industries
+classifications:
+  - restaurants-and-bars
 Street: 701 5th Street
 City: Greeley
 State: Colorado
@@ -12,9 +14,4 @@ Categories: 'Equipment & Storage Rental'
 Contact_Name: Ken Alverez
 Contact_Email: ken@5starindustries.com
 Coordinates: '40.428606, -104.688919'
-Test:
-  - name: test one
-  - name: test two
 ---
-
-

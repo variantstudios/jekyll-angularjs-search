@@ -7,24 +7,16 @@
 
 </head>
 <body ng-app="mainApp">
+
 	<!-- <input type="text" ng-model="searchBox.$" placeholder="Global Search"><br> -->
 	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
 
-
-<select ng-model="searchBox.Tests" >
-        <option value="">- Any Category -</option>
-        <option value="Red">Red</option>
-        <option value="Blue">Blue</option>
-        <option value="Green">Green</option>
-    </select> 
-
-
-<!--  <select ng-model="searchBox.Categories" >
+ <select ng-model="searchBox.classifications" >
         <option value="">-- Select --</option>
-        <option value="Media, Web & Graphic Design">Media, Web & Graphic Design</option>
-        <option value="American/Night Life/Restaurants & Bars">American/Night Life/Restaurants & Bars</option>
-        <option value="Tattoos">Tattoos</option>
-    </select> -->
+        <option value="media-web-and-graphic-design">Media, Web and Graphic Design</option>
+        <option value="restaurants-and-bars">Restaurants and Bars</option>
+        <option value="tattoos">Tattoos</option>
+    </select>
 
 	<div data-ng-controller="DirectoryCtrl">
 
@@ -41,7 +33,9 @@
 				<p data-ng-bind="business.Website" class="website"></p>
 				<p data-ng-bind="business.Phone" class="phone"></p>
 
-				<div data-ng-repeat="item in business.Tests">
+				<p data-ng-bind="business.classifications" class="classifications"></p>
+
+				<div data-ng-repeat="item in classifications">
 					<p data-ng-bind="item"></p>
 				</div>
 

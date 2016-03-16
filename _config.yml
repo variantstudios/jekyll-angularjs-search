@@ -30,7 +30,5 @@ collections:
   directory:
     output: true
     permalink: /directory/:title/
-  directory_categories:
+  classifications:
     output: false
-
-defaults:
