@@ -14,4 +14,5 @@ Contact_Email: ""
 Coordinates: "40.413906, -104.693440"
 Tests:
   - Blue
+directory_categories:  
 ---
