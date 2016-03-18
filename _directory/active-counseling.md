@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: Active Counseling
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - counseling-and-therapy
+Street: '1220 11th Ave #300'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
-Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Phone: (970) 356-3887
+Fax: (970) 356-3893
+Website: 'http://activecounseling.org'
+Contact_Name: Jeremy Brooks
+Contact_Email: Jeremy.Brooks@activecounseling.org
+Coordinates: '40.418707, -104.696262'
 ---
+
+
