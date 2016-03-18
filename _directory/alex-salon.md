@@ -1,16 +1,18 @@
 ---
-Business: 1310 KFKA
+Business: Alex Salon
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - salons-and-barber-shops
+Street: 1213 11th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 324-7687
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website: 'http://www.alexsalon.com'
+Contact_Name: Alex Sanagar
+Contact_Email: alexsalon392@gmail.com
+Coordinates: '40.419221, -104.696492'
 ---
+
+
+Haircuts based on your facial features.
