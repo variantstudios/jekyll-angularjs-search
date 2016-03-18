@@ -9,7 +9,6 @@ Zip: '80631'
 Phone: (970) 378-0140
 Fax:
 Website: 'http://www.5starindustries.com/'
-Description:
 Categories: 'Equipment & Storage Rental'
 Contact_Name: Ken Alverez
 Contact_Email: ken@5starindustries.com
