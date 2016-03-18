@@ -16,7 +16,7 @@ sitemap:
         "Phone": {{ business.Phone | jsonify }},
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
-        "Description": {{ business.Description | jsonify }},
+        "Description": {{ business.content | jsonify }},
         "Categories": {{ business.Categories | jsonify }},
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
