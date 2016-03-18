@@ -10,7 +10,6 @@ Zip: '80631'
 Phone: (970) 352-5219
 Fax:
 Website:
-Categories:
 Contact_Name:
 Contact_Email:
 Coordinates: '40.430151, -104.690631'

@@ -9,7 +9,6 @@ Zip: '80631'
 Phone: 970-515-5374
 Fax:
 Website: 'http://www.1908speakeasy.com/'
-Categories: 'American/Night Life/Restaurants & Bars'
 Contact_Name: Tim Veldhuizen
 Contact_Email: 1908speakeasy@gmail.com
 Coordinates: '40.424141, -104.691204'
