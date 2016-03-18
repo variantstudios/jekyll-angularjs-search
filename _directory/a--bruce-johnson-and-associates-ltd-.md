@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: 'A. Bruce Johnson and Associates, Ltd.'
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - real-estate-services
+Street: '801 8th Street #220'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 356-6110
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website:
+Contact_Name: Bruce Johnson
+Contact_Email: bruce@abrucejohnson.com
+Coordinates: '40.424755, -104.690974'
 ---
+
+
