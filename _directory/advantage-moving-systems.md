@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: Advantage Moving Systems
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - moving-service
+Street: '418 8th Avenue #2'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 388-7677
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website: 'http://www.advantage-movingsystems.com/'
+Contact_Name: Esau Soto
+Contact_Email: advantagemovingsystems@yahoo.com
+Coordinates: '40.429354, -104.690387'
 ---
+
+
