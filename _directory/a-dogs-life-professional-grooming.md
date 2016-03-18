@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: "A Dog's Life Professional Grooming"
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - pet-care
+Street: 925 16th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 388-4017
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website: 'https://www.facebook.com/pages/A-Dogs-Life-Professional-Grooming/160079250688557'
+Contact_Name: Jamie Weber
+Contact_Email: jamieweber1605@gmail.com
+Coordinates: '40.413771, -104.694025'
 ---
+
+
