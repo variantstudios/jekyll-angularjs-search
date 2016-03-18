@@ -1,16 +1,20 @@
 ---
-Business: 1310 KFKA
+Business: AAA King Self Storage
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - equipment-and-storage-rental
+Street: 715 7th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 475-0355
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website: 'http://AAAKingselfstorage.com'
+Contact_Name: Linda Adams
+Contact_Email: kingstorage@qwest.office
+Coordinates: '40.425853, -104.690718'
 ---
+
+
+AAA King Self Storage offers all indoor units from 3x3 to 10x30. We have a state of the art security system to keep all of your items stored safe and secure. Our facility is conveniently located in downtown Greeley. The facility has been re-modeled inside and out, and we provide the safest, and cleanest storage units Greeley has to offer. Please come by for a tour.
+
+For more info, or any questions please call us at 970-475-0355. Thanks, and we look forward to earning your business. AAA King Self Storage where we store memories!
