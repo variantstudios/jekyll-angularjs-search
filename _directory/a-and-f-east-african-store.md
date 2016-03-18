@@ -1,16 +1,18 @@
 ---
-Business: 1310 KFKA
+Business: A and F East African Store
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - grocery
+  - convenience
+Street: 1017 8th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone:
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website:
+Contact_Name:
+Contact_Email:
+Coordinates: '40.421745, -104.691106'
 ---
+
+
