@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: "A A Jason's Bail Bonds"
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - legal-services
+Street: 1009 9th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 356-7950
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website:
+Contact_Name: Jason Rothe
+Contact_Email:
+Coordinates: '40.423971, -104.694504'
 ---
+
+
