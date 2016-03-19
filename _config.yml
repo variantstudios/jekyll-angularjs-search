@@ -32,3 +32,11 @@ collections:
     permalink: /directory/:title/
   classifications:
     output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "directory"
+    values:
+      layout: "directory"

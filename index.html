@@ -15,53 +15,44 @@
 
 
 
-	<div data-ng-controller="DirectoryCtrl">
-	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
+<div data-ng-controller="DirectoryCtrl">
 
-<!--   <select data-ng-model="searchBox.classifications" data-ng-options="class.Title for class in classifications">
- -->
+<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
 
-<!-- <select data-ng-model="searchBox.classifications"
-   data-ng-options="classifications.value as classifications for classifications in 
-        classifications track by classifications">
- <option value="">-- Select --</option>
-</select>
- -->
 <select name="repeatSelect" id="repeatSelect" ng-model="searchBox.classifications">
-      <option ng-repeat="option in classifications"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-    </select>
+<option value="">-- Select a Category --</option>
+<option ng-repeat="option in classifications"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+</select>
+
+<a name="top"></a>
+		<dir-pagination-controls
+			max-size="1000"
+			direction-links="true"
+			boundary-links="false">
+</dir-pagination-controls>
+<ul>
+	<li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:5 | orderBy:'Business'">
+		<a href="{% raw %}{{business.path}}{% endraw %}">
+			<h3 data-ng-bind="business.Business" class="business"></h3>
+		</a>
+		
+		<p><span data-ng-bind="business.Street" class="street"></span><br>
+		<span data-ng-bind="business.City" class="city"></span>, 
+		<span data-ng-bind="business.State" class="state"></span>
+		<span data-ng-bind="business.Zip" class="zip"></span></p>
+
+		<span data-ng-if="!!business.Website"><a href="{% raw %}{{business.Website}}{% endraw %}" target="_blank">website</a></span>
 
 
-<!--  ng-options="opt as opt.label for opt in ctrl.ageOptions track by opt.value">
- -->
-	<p>selected item is : <span data-ng-bind="searchBox.classifications"></span></p>
-	<p>Search: <span data-ng-bind="searchBox.Business"></span></p>
+		<p data-ng-bind="business.Phone" class="phone"></p>
 
-		<a name="top"></a>
-				<dir-pagination-controls
-					max-size="1000"
-					direction-links="true"
-					boundary-links="false">
-		</dir-pagination-controls>
-		<ul>
-			<li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:5 | orderBy:'Business'">
-				<h3 data-ng-bind="business.Business" class="business"></h3>
-				
-				<p><span data-ng-bind="business.Street" class="street"></span><br>
-				<span data-ng-bind="business.City" class="city"></span>, 
-				<span data-ng-bind="business.State" class="state"></span>
-				<span data-ng-bind="business.Zip" class="zip"></span></p>
-
-				<p data-ng-bind="business.Website" class="website"></p>
-				<p data-ng-bind="business.Phone" class="phone"></p>
-
-				<div data-ng-repeat="item in business.classifications">
-					<p data-ng-bind="item"></p>
-				</div>
+		<div data-ng-repeat="item in business.classifications">
+			<p data-ng-bind="item"></p>
+		</div>
 
 
-			</li>
-		</ul>	
+	</li>
+</ul>	
 
 		
 

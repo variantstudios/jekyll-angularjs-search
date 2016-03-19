@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>{{page.Business}}</h1>
+
+<p data-ng-bind="business.Phone" class="phone">{{page.Phone}}</p>
+
+<p><span class="street">{{page.Street}}</span><br>
+<span class="city">{{page.City}}</span>, 
+<span class="state">{{page.State}}</span>
+<span class="zip">{{page.Zip}}</span></p>
+
+{{if page.Website}}<a href="{{page.Website}}" target="_blank">website</a></span>{{endif}}
+
+{% for classification in page.classifications %}
+<p>{{classification}}</p>
+{% endfor %}
+
+{{content}}

@@ -17,7 +17,7 @@
         "Contact Email": "damon@1310kfka.com",
         "Coordinates": "40.424728, -104.696194",
         "classifications": ["media-web-and-graphic-design"],
-        "relative_path": "_directory/1310-KFKA.md"
+        "path": "/directory/1310-kfka/"
         }
         ,
       
@@ -29,13 +29,13 @@
         "Phone": "970-515-5374",
         "Fax": null,
         "Website": "http://www.1908speakeasy.com/",
-        "Description": "<p>1908 Speakeasy is cocktail lounge and bar located beneath the streets of downtown Greeley, Colorado. We offer a wide variety of vintage cocktails, wine and beer, in a quiet 1920’s atmosphere. We may be difficult to find, but that’s all part of the fun. Greeley has a rich history of speakeasies, where residents use to hideout and enjoy an illicit drink during prohibition. In fact, old underground passageways used to connect many of the downtown buildings, allowing people sneak away from the public eye and enjoy some bootlegged liquor. Come visit us and enjoy a vintage cocktail and let your imagination take you back in time to the early life in Downtown Greeley.</p>\n\n",
+        "Description": "<p>1908 Speakeasy is cocktail lounge and bar located beneath the streets of downtown Greeley, Colorado. We offer a wide variety of vintage cocktails, wine and beer, in a quiet 1920’s atmosphere. We may be difficult to find, but that’s all part of the fun. Greeley has a rich history of speakeasies, where residents use to hideout and enjoy an illicit drink during prohibition. In fact, old underground passageways used to connect many of the downtown buildings, allowing people sneak away from the public eye and enjoy some bootlegged liquor. Come visit us and enjoy a vintage cocktail and let your imagination take you back in time to the early life in Downtown Greeley.</p>\n",
         "Categories": null,
         "Contact Name": "Tim Veldhuizen",
         "Contact Email": "1908speakeasy@gmail.com",
         "Coordinates": "40.424141, -104.691204",
-        "classifications": ["restaurants-and-bars"],
-        "relative_path": "_directory/1908-Speakeasy.md"
+        "classifications": ["restaurants-and-bars","american","night-life"],
+        "path": "/directory/1908-speakeasy/"
         }
         ,
       
@@ -53,7 +53,7 @@
         "Contact Email": "",
         "Coordinates": "40.413906, -104.693440",
         "classifications": ["tattoos"],
-        "relative_path": "_directory/2nd-Millennium.md"
+        "path": "/directory/2nd-millennium/"
         }
         ,
       
@@ -71,7 +71,7 @@
         "Contact Email": "ken@5starindustries.com",
         "Coordinates": "40.428606, -104.688919",
         "classifications": ["equipment-and-storage-rental"],
-        "relative_path": "_directory/5-star-industries.md"
+        "path": "/directory/5-star-industries/"
         }
         ,
       
@@ -89,7 +89,7 @@
         "Contact Email": null,
         "Coordinates": "40.413735, -104.691495",
         "classifications": ["auto-services","grocery","convenience"],
-        "relative_path": "_directory/7-eleven.md"
+        "path": "/directory/7-eleven/"
         }
         ,
       
@@ -107,7 +107,7 @@
         "Contact Email": null,
         "Coordinates": "40.430151, -104.690631",
         "classifications": ["apparel","shoes-and-accessories"],
-        "relative_path": "_directory/8th-avenue-arcade-and-lingerie.md"
+        "path": "/directory/8th-avenue-arcade-and-lingerie/"
         }
         ,
       
@@ -125,7 +125,7 @@
         "Contact Email": "ancont1@yahoo.com",
         "Coordinates": "40.424863, -104.687755",
         "classifications": ["professional-consulting"],
-        "relative_path": "_directory/a--bruce-johnson-and-associates-ltd-.md"
+        "path": "/directory/a-bruce-johnson-and-associates-ltd/"
         }
         ,
       
@@ -143,7 +143,7 @@
         "Contact Email": null,
         "Coordinates": "40.423971, -104.694504",
         "classifications": ["legal-services"],
-        "relative_path": "_directory/a-a-jasons-bail-bonds.md"
+        "path": "/directory/a-a-jasons-bail-bonds/"
         }
         ,
       
@@ -161,7 +161,7 @@
         "Contact Email": null,
         "Coordinates": "40.421745, -104.691106",
         "classifications": ["grocery","convenience"],
-        "relative_path": "_directory/a-and-f-east-african-store.md"
+        "path": "/directory/a-and-f-east-african-store/"
         }
         ,
       
@@ -179,7 +179,7 @@
         "Contact Email": "jamieweber1605@gmail.com",
         "Coordinates": "40.413771, -104.694025",
         "classifications": ["pet-care"],
-        "relative_path": "_directory/a-dogs-life-professional-grooming.md"
+        "path": "/directory/a-dogs-life-professional-grooming/"
         }
         ,
       
@@ -197,7 +197,7 @@
         "Contact Email": "kingstorage@qwest.office",
         "Coordinates": "40.425853, -104.690718",
         "classifications": ["equipment-and-storage-rental"],
-        "relative_path": "_directory/aaa-king-self-storage.md"
+        "path": "/directory/aaa-king-self-storage/"
         }
         ,
       
@@ -215,7 +215,7 @@
         "Contact Email": "mongan@natural-therapy.com",
         "Coordinates": "40.426875, -104.690772",
         "classifications": ["educational-institutions-and-services"],
-        "relative_path": "_directory/academy-of-natural-therapy.md"
+        "path": "/directory/academy-of-natural-therapy/"
         }
         ,
       
@@ -233,7 +233,7 @@
         "Contact Email": "lindaw.accessorieswithaflair@gmail.com",
         "Coordinates": "40.424761, -104.690960",
         "classifications": ["apparel","shoes-and-accessories","salons-and-barber-shops"],
-        "relative_path": "_directory/accessories-with-a-flair---and-hair.md"
+        "path": "/directory/accessories-with-a-flair-and-hair/"
         }
         ,
       
@@ -251,7 +251,7 @@
         "Contact Email": "Jeremy.Brooks@activecounseling.org",
         "Coordinates": "40.418707, -104.696262",
         "classifications": ["counseling-and-therapy"],
-        "relative_path": "_directory/active-counseling.md"
+        "path": "/directory/active-counseling/"
         }
         ,
       
@@ -269,7 +269,7 @@
         "Contact Email": null,
         "Coordinates": "40.421131, -104.689349",
         "classifications": ["auto-services"],
-        "relative_path": "_directory/advanced-detail-automotive.md"
+        "path": "/directory/advanced-detail-automotive/"
         }
         ,
       
@@ -287,7 +287,7 @@
         "Contact Email": "advantagemovingsystems@yahoo.com",
         "Coordinates": "40.429354, -104.690387",
         "classifications": ["moving-service"],
-        "relative_path": "_directory/advantage-moving-systems.md"
+        "path": "/directory/advantage-moving-systems/"
         }
         ,
       
@@ -305,7 +305,7 @@
         "Contact Email": "alexsalon392@gmail.com",
         "Coordinates": "40.419221, -104.696492",
         "classifications": ["salons-and-barber-shops"],
-        "relative_path": "_directory/alex-salon.md"
+        "path": "/directory/alex-salon/"
         }
         ,
       
@@ -323,7 +323,7 @@
         "Contact Email": null,
         "Coordinates": "40.416604, -104.696289",
         "classifications": ["insurance"],
-        "relative_path": "_directory/all-drivers-insurance.md"
+        "path": "/directory/all-drivers-insurance/"
         }
         ,
       
@@ -341,7 +341,7 @@
         "Contact Email": "damon@1310kfka.com",
         "Coordinates": "40.425398, -104.695730",
         "classifications": ["professional-consulting"],
-        "relative_path": "_directory/all-in-one-professional-services.md"
+        "path": "/directory/all-in-one-professional-services/"
         }
         ,
       
@@ -359,7 +359,7 @@
         "Contact Email": "even_c@yahoo.com",
         "Coordinates": "40.423326, -104.696072",
         "classifications": ["health-services"],
-        "relative_path": "_directory/alliance-medical-supply-high-plains-medical-llc.md"
+        "path": "/directory/alliance-medical-supply-high-plains-medical-llc/"
         }
         ,
       
@@ -377,7 +377,7 @@
         "Contact Email": null,
         "Coordinates": "40.419501, -104.691196",
         "classifications": ["media-web-and-graphic-design","tattoos"],
-        "relative_path": "_directory/als-detailing-sales-and-services.md"
+        "path": "/directory/als-detailing-sales-and-services/"
         }
         ,
       
@@ -395,7 +395,7 @@
         "Contact Email": "sweetrobinsnest@live.com",
         "Coordinates": "40.417536, -104.690920",
         "classifications": ["sewing-and-alterations"],
-        "relative_path": "_directory/alterations-and-sewing-arts.md"
+        "path": "/directory/alterations-and-sewing-arts/"
         }
         ,
       
@@ -413,7 +413,7 @@
         "Contact Email": "amorawireless@gmail.com",
         "Coordinates": "40.418708, -104.690897",
         "classifications": ["communication-and-marketing"],
-        "relative_path": "_directory/amora-wireless.md"
+        "path": "/directory/amora-wireless/"
         }
         ,
       
@@ -431,7 +431,7 @@
         "Contact Email": "Angela.Englehardt@gmail.com",
         "Coordinates": "40.424212, -104.691656",
         "classifications": ["health-services"],
-        "relative_path": "_directory/ancient-wisdom-healing-arts.md"
+        "path": "/directory/ancient-wisdom-healing-arts/"
         }
         ,
       
@@ -449,7 +449,7 @@
         "Contact Email": null,
         "Coordinates": "40.425331, -104.687957",
         "classifications": ["construction-and-engineering"],
-        "relative_path": "_directory/ancon-construction.md"
+        "path": "/directory/ancon-construction/"
         }
         ,
       
@@ -467,7 +467,7 @@
         "Contact Email": "pen137@comcast.net",
         "Coordinates": "40.424583, -104.691832",
         "classifications": ["sewing-and-alterations"],
-        "relative_path": "_directory/and-more-embroidery-shop.md"
+        "path": "/directory/and-more-embroidery-shop/"
         }
         ,
       
@@ -485,7 +485,7 @@
         "Contact Email": "ancont1@yahoo.com",
         "Coordinates": "40.424863, -104.687755",
         "classifications": ["professional-consulting"],
-        "relative_path": "_directory/anderson-business-resources.md"
+        "path": "/directory/anderson-business-resources/"
         }
         ,
       
@@ -503,7 +503,7 @@
         "Contact Email": null,
         "Coordinates": "40.425433, -104.692241",
         "classifications": ["agribusiness"],
-        "relative_path": "_directory/animal-health-international.md"
+        "path": "/directory/animal-health-international/"
         }
         ,
       
@@ -521,7 +521,7 @@
         "Contact Email": "alaplante@ctos.com",
         "Coordinates": "40.425761, -104.696171",
         "classifications": ["legal-services"],
-        "relative_path": "_directory/ann-laplante-criminal-justice-attorney.md"
+        "path": "/directory/ann-laplante-criminal-justice-attorney/"
         }
         ,
       
@@ -539,7 +539,7 @@
         "Contact Email": null,
         "Coordinates": "40.419489, -104.685483",
         "classifications": ["financial-services"],
-        "relative_path": "_directory/annes-taxes.md"
+        "path": "/directory/annes-taxes/"
         }
         ,
       
@@ -557,7 +557,7 @@
         "Contact Email": null,
         "Coordinates": "40.424238, -104.695495",
         "classifications": ["financial-services"],
-        "relative_path": "_directory/art-weigle-accounting.md"
+        "path": "/directory/art-weigle-accounting/"
         }
         
       

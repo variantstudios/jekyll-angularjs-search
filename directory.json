@@ -22,7 +22,7 @@ sitemap:
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},
         "classifications": {{ business.classifications | jsonify }},
-        "relative_path": "{{ business.relative_path }}"
+        "path": "{{ business.url }}"
         }
         {% unless forloop.last %},{% endunless %}
       {% endfor %}
