@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: And More Embroidery Shop
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - sewing-and-alterations
+Street: 818 8th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 381-1563
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website:
+Contact_Name: Courtney Graham
+Contact_Email: pen137@comcast.net
+Coordinates: '40.424583, -104.691832'
 ---
+
+
