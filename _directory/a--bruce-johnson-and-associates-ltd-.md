@@ -1,17 +1,17 @@
 ---
-Business: 'A. Bruce Johnson and Associates, Ltd.'
+Business: Anderson Business Resources
 classifications:
-  - real-estate-services
-Street: '801 8th Street #220'
+  - professional-consulting
+Street: 611 8th StreetUnit 2
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-6110
+Phone: (970) 353-3007
 Fax:
 Website:
-Contact_Name: Bruce Johnson
-Contact_Email: bruce@abrucejohnson.com
-Coordinates: '40.424755, -104.690974'
+Contact_Name: John Anderson
+Contact_Email: ancont1@yahoo.com
+Coordinates: '40.424863, -104.687755'
 ---
 
 
