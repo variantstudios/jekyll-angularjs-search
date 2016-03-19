@@ -23,8 +23,13 @@
 	<div data-ng-controller="DirectoryCtrl">
 
 		<a name="top"></a>
+				<dir-pagination-controls
+					max-size="0"
+					direction-links="true"
+					boundary-links="false">
+		</dir-pagination-controls>
 		<ul>
-			<li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:2 | orderBy:'Business'">
+			<li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:5 | orderBy:'Business'">
 				<h3 data-ng-bind="business.Business" class="business"></h3>
 				
 				<p><span data-ng-bind="business.Street" class="street"></span><br>
@@ -44,11 +49,7 @@
 
 			</li>
 		</ul>	
-		<dir-pagination-controls
-					max-size="5"
-					direction-links="false"
-					boundary-links="false">
-		</dir-pagination-controls>
+
 		
 
 	</div>
