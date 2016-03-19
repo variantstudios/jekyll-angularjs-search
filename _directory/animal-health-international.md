@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: Animal Health International
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - agribusiness
+Street: '822 7th Street, Ste 740'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 353-2600
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website: 'http://www.animalhealthinternational.com'
+Contact_Name: David Wagley
+Contact_Email:
+Coordinates: '40.425433, -104.692241'
 ---
+
+
