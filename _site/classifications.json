@@ -4,132 +4,158 @@
     [
     
         {    
-        "Title": "agribusiness"
+        "Title": "Agribusiness",
+        "value": "agribusiness"
         }
         ,
       
         {    
-        "Title": "american"
+        "Title": "American",
+        "value": "american"
         }
         ,
       
         {    
-        "Title": "apparel"
+        "Title": "Apparel",
+        "value": "apparel"
         }
         ,
       
         {    
-        "Title": "auto-services"
+        "Title": "Auto Services",
+        "value": "auto-services"
         }
         ,
       
         {    
-        "Title": "communication-and-marketing"
+        "Title": "Communication and Marketing",
+        "value": "communication-and-marketing"
         }
         ,
       
         {    
-        "Title": "construction-and-engineering"
+        "Title": "Construction and Engineering",
+        "value": "construction-and-engineering"
         }
         ,
       
         {    
-        "Title": "convenience"
+        "Title": "Convenience",
+        "value": "convenience"
         }
         ,
       
         {    
-        "Title": "counseling-and-therapy"
+        "Title": "Counseling and Therapy",
+        "value": "counseling-and-therapy"
         }
         ,
       
         {    
-        "Title": "educational-institutions-and-services"
+        "Title": "Educational Institutions and Services",
+        "value": "educational-institutions-and-services"
         }
         ,
       
         {    
-        "Title": "equipment-and-storage-rental"
+        "Title": "Equipment and Storage Rental",
+        "value": "equipment-and-storage-rental"
         }
         ,
       
         {    
-        "Title": "financial-services"
+        "Title": "Financial Services",
+        "value": "financial-services"
         }
         ,
       
         {    
-        "Title": "grocery"
+        "Title": "Grocery",
+        "value": "grocery"
         }
         ,
       
         {    
-        "Title": "health-services"
+        "Title": "Health Services",
+        "value": "health-services"
         }
         ,
       
         {    
-        "Title": "insurance"
+        "Title": "Insurance",
+        "value": "insurance"
         }
         ,
       
         {    
-        "Title": "legal-services"
+        "Title": "Legal Services",
+        "value": "legal-services"
         }
         ,
       
         {    
-        "Title": "media-web-and-graphic-design"
+        "Title": "Media, Web and Graphic Design",
+        "value": "media-web-and-graphic-design"
         }
         ,
       
         {    
-        "Title": "moving-service"
+        "Title": "Moving Service",
+        "value": "moving-service"
         }
         ,
       
         {    
-        "Title": "night-life"
+        "Title": "Night Life",
+        "value": "night-life"
         }
         ,
       
         {    
-        "Title": "pet-care"
+        "Title": "Pet Care",
+        "value": "pet-care"
         }
         ,
       
         {    
-        "Title": "professional-consulting"
+        "Title": "Professional Consulting",
+        "value": "professional-consulting"
         }
         ,
       
         {    
-        "Title": "real-estate-services"
+        "Title": "Real Estate Services",
+        "value": "real-estate-services"
         }
         ,
       
         {    
-        "Title": "restaurants-and-bars"
+        "Title": "Restaurants and Bars",
+        "value": "restaurants-and-bars"
         }
         ,
       
         {    
-        "Title": "salons-and-barber-shops"
+        "Title": "Salons and Barber Shops",
+        "value": "salons-and-barber-shops"
         }
         ,
       
         {    
-        "Title": "sewing-and-alterations"
+        "Title": "Sewing and Alterations",
+        "value": "sewing-and-alterations"
         }
         ,
       
         {    
-        "Title": "shoes-and-accessories"
+        "Title": "Shoes and Accessories",
+        "value": "shoes-and-accessories"
         }
         ,
       
         {    
-        "Title": "tattoos"
+        "Title": "Tattoos",
+        "value": "tattoos"
         }
         
       

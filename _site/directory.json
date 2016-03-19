@@ -70,8 +70,8 @@
         "Contact Name": "Ken Alverez",
         "Contact Email": "ken@5starindustries.com",
         "Coordinates": "40.428606, -104.688919",
-        "classifications": ["restaurants-and-bars"],
-        "relative_path": "_directory/5-Star-Industries.md"
+        "classifications": ["equipment-and-storage-rental"],
+        "relative_path": "_directory/5-star-industries.md"
         }
         ,
       
@@ -112,19 +112,19 @@
         ,
       
         {    
-        "Business": "A. Bruce Johnson and Associates, Ltd.",
-        "Street": "801 8th Street #220",
+        "Business": "Anderson Business Resources",
+        "Street": "611 8th StreetUnit 2",
         "City": "Greeley",
         "State": "Colorado",
-        "Phone": "(970) 356-6110",
+        "Phone": "(970) 353-3007",
         "Fax": null,
         "Website": null,
         "Description": "\n",
         "Categories": null,
-        "Contact Name": "Bruce Johnson",
-        "Contact Email": "bruce@abrucejohnson.com",
-        "Coordinates": "40.424755, -104.690974",
-        "classifications": ["real-estate-services"],
+        "Contact Name": "John Anderson",
+        "Contact Email": "ancont1@yahoo.com",
+        "Coordinates": "40.424863, -104.687755",
+        "classifications": ["professional-consulting"],
         "relative_path": "_directory/a--bruce-johnson-and-associates-ltd-.md"
         }
         ,
@@ -378,6 +378,186 @@
         "Coordinates": "40.419501, -104.691196",
         "classifications": ["media-web-and-graphic-design","tattoos"],
         "relative_path": "_directory/als-detailing-sales-and-services.md"
+        }
+        ,
+      
+        {    
+        "Business": "Alterations and Sewing Arts",
+        "Street": "1335 8th Avenue",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 576-6359",
+        "Fax": null,
+        "Website": "http://sweetrobinsnest.etsy.com",
+        "Description": "<p>Alterations, Repairs, Misc Sewing Arts and Unique Handmade Aprons!!</p>\n\n<p>Open Mon- Fri…..Fittings by appointment please, Wed 9-5:00 and Thurs and Friday 9-5:30 </p>\n\n<p>Specializing in making your clothes fit YOU!!  Call for an appointment, ask for Robin.”</p>\n",
+        "Categories": null,
+        "Contact Name": "Robin Sweeton",
+        "Contact Email": "sweetrobinsnest@live.com",
+        "Coordinates": "40.417536, -104.690920",
+        "classifications": ["sewing-and-alterations"],
+        "relative_path": "_directory/alterations-and-sewing-arts.md"
+        }
+        ,
+      
+        {    
+        "Business": "Amora Wireless",
+        "Street": "1235 8th Avenue",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 352-9538",
+        "Fax": null,
+        "Website": "http://www.1310kfka.com",
+        "Description": "<p>Amora Wireless is the master prepaid wireless sales, payment and service company!  Come visit us and buy a phone or pay a bill with any company or plan.</p>\n",
+        "Categories": null,
+        "Contact Name": "Teklit Baire",
+        "Contact Email": "amorawireless@gmail.com",
+        "Coordinates": "40.418708, -104.690897",
+        "classifications": ["communication-and-marketing"],
+        "relative_path": "_directory/amora-wireless.md"
+        }
+        ,
+      
+        {    
+        "Business": "Ancient Wisdom Healing Arts",
+        "Street": "815 9th Street",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 219-1367",
+        "Fax": null,
+        "Website": "http://ancient-wisdom-healing-arts.com",
+        "Description": "<p>Ancient Wisdom Healing Arts is an integrated holistic team treating clients in all aspects of their lives, providing multiple practitioners within one company addressing as many needs of our clients as possible to improve their lives and health. Our practitioners strive to be models of health and healing who are committed to the process of self-exploration and development. We address all factors that influence a person’s health, wellness and disease, including the mind, emotions, and spiritual care for each of our clients and their families. Our treatments are always customized according to their unique presentation and predisposing factors, and aim to address the underlying cause of their condition as well as its outward symptoms. We are advancing excellence in holistic health services and education. Our commitment of strengthening our relationships with our practitioners, volunteers, community partners, clients and friends to our mission permits us to maintain a quality of presence and tradition of caring. We are very thankful that we are able to practice our vocations in the Greeley, Colorado area and look forward to serving our community for many years to come.</p>\n\n<p>Equipment: Ionic Foot Cleanse - VIBE Sessions - Chi Machine - Hydro TableModalities: Massage - Homeopathy - Essential Oils - Hypnotherapy - Individual and Family Counseling - Child Birth Education/Doula - Splankna - Energy Work - GwashaClasses: Meditation - Essential Oils - Workshops/Seminars And More……</p>\n",
+        "Categories": null,
+        "Contact Name": "Angela Englehardt",
+        "Contact Email": "Angela.Englehardt@gmail.com",
+        "Coordinates": "40.424212, -104.691656",
+        "classifications": ["health-services"],
+        "relative_path": "_directory/ancient-wisdom-healing-arts.md"
+        }
+        ,
+      
+        {    
+        "Business": "Ancon Construction",
+        "Street": "611 8th Street, #1",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 353-3007",
+        "Fax": null,
+        "Website": null,
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "Matt Anderson",
+        "Contact Email": null,
+        "Coordinates": "40.425331, -104.687957",
+        "classifications": ["construction-and-engineering"],
+        "relative_path": "_directory/ancon-construction.md"
+        }
+        ,
+      
+        {    
+        "Business": "And More Embroidery Shop",
+        "Street": "818 8th Street",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 381-1563",
+        "Fax": null,
+        "Website": null,
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "Courtney Graham",
+        "Contact Email": "pen137@comcast.net",
+        "Coordinates": "40.424583, -104.691832",
+        "classifications": ["sewing-and-alterations"],
+        "relative_path": "_directory/and-more-embroidery-shop.md"
+        }
+        ,
+      
+        {    
+        "Business": "1310 KFKA",
+        "Street": "820 11th Avenue",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 356-1310",
+        "Fax": null,
+        "Website": "http://www.1310kfka.com",
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "Damon Sasso",
+        "Contact Email": "damon@1310kfka.com",
+        "Coordinates": "40.424728, -104.696194",
+        "classifications": ["media-web-and-graphic-design","tattoos"],
+        "relative_path": "_directory/anderson-business-resources.md"
+        }
+        ,
+      
+        {    
+        "Business": "Animal Health International",
+        "Street": "822 7th Street, Ste 740",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 353-2600",
+        "Fax": null,
+        "Website": "http://www.animalhealthinternational.com",
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "David Wagley",
+        "Contact Email": null,
+        "Coordinates": "40.425433, -104.692241",
+        "classifications": ["agribusiness"],
+        "relative_path": "_directory/animal-health-international.md"
+        }
+        ,
+      
+        {    
+        "Business": "Ann LaPlante, Criminal Justice Attorney",
+        "Street": "710 11th Avenue, E306",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 304-9205",
+        "Fax": null,
+        "Website": null,
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "Ann LaPlante",
+        "Contact Email": "alaplante@ctos.com",
+        "Coordinates": "40.425761, -104.696171",
+        "classifications": ["legal-services"],
+        "relative_path": "_directory/ann-laplante-criminal-justice-attorney.md"
+        }
+        ,
+      
+        {    
+        "Business": "Anne's Taxes",
+        "Street": "1219 5th Avenue",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 353-8452",
+        "Fax": null,
+        "Website": null,
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": null,
+        "Contact Email": null,
+        "Coordinates": "40.419489, -104.685483",
+        "classifications": ["financial-services"],
+        "relative_path": "_directory/annes-taxes.md"
+        }
+        ,
+      
+        {    
+        "Business": "Art Weigle Accounting",
+        "Street": "1019 9th Street",
+        "City": "Greeley",
+        "State": "Colorado",
+        "Phone": "(970) 356-2374",
+        "Fax": null,
+        "Website": null,
+        "Description": "\n",
+        "Categories": null,
+        "Contact Name": "Art Weigle",
+        "Contact Email": null,
+        "Coordinates": "40.424238, -104.695495",
+        "classifications": ["financial-services"],
+        "relative_path": "_directory/art-weigle-accounting.md"
         }
         
       

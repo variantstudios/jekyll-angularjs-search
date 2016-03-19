@@ -9,20 +9,31 @@
 <body ng-app="mainApp">
 
 	<!-- <input type="text" ng-model="searchBox.$" placeholder="Global Search"><br> -->
-	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
 
- <select ng-model="searchBox.classifications" >
-        <option value="">-- Select --</option>
-        <option value="media-web-and-graphic-design">Media, Web and Graphic Design</option>
-        <option value="restaurants-and-bars">Restaurants and Bars</option>
-        <option value="tattoos">Tattoos</option>
-    </select>
+
+
 
 	<div data-ng-controller="DirectoryCtrl">
+	<input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
+
+<!--   <select data-ng-model="searchBox.classifications" data-ng-options="class.Title for class in classifications">
+ -->
+<select ng-model="searchBox.classifications"
+    ng-options="classification.Title for classification in 
+        classifications track by classification.value">
+ <option value="">-- Select --</option>
+</select>
+	<p>selected item is : <span data-ng-bind="searchBox.classifications"></span></p>
+
+<!--     <select data-ng-model="searchBox.classifications">
+        <option data-ng-repeat="class in classifications" data-ng-bind="class.Title">
+        	<span data-ng-bind="class.Title"></span>
+        </option>
+      </select> -->
 
 		<a name="top"></a>
 				<dir-pagination-controls
-					max-size="0"
+					max-size="1000"
 					direction-links="true"
 					boundary-links="false">
 		</dir-pagination-controls>
@@ -40,7 +51,7 @@
 
 				<p data-ng-bind="business.classifications" class="classifications"></p>
 
-				<div data-ng-repeat="item in classifications">
+				<div data-ng-repeat="item in business.classifications">
 					<p data-ng-bind="item"></p>
 				</div>
 

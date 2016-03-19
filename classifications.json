@@ -9,7 +9,8 @@ sitemap:
     [
     {% for class in site.classifications %}
         {    
-        "Title": {{ class.Title | slugify | jsonify }}
+        "Title": {{ class.Title | jsonify }},
+        "value": {{ class.Title | slugify | jsonify }}
         }
         {% unless forloop.last %},{% endunless %}
       {% endfor %}
