@@ -8,6 +8,14 @@
 	
 
 </head>
+<style type="text/css">
+#mySpinner {
+	position: absolute;
+	top:50%;
+	left: 50%;
+	background-color: rgba(255,255,255.5);
+}
+</style>
 <body ng-app="mainApp">
 
 	<!-- <input type="text" ng-model="searchBox.$" placeholder="Global Search"><br> -->
@@ -16,6 +24,7 @@
 
 
 <div data-ng-controller="DirectoryCtrl">
+	<div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg"  /></div>
 
 <input type="text" ng-model="searchBox.Business" placeholder="Search Business Names">
 
