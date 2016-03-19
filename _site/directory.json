@@ -16,7 +16,7 @@
         "Contact Name": "Damon Sasso",
         "Contact Email": "damon@1310kfka.com",
         "Coordinates": "40.424728, -104.696194",
-        "classifications": ["media-web-and-graphic-design","tattoos"],
+        "classifications": ["media-web-and-graphic-design"],
         "relative_path": "_directory/1310-KFKA.md"
         }
         ,
@@ -472,19 +472,19 @@
         ,
       
         {    
-        "Business": "1310 KFKA",
-        "Street": "820 11th Avenue",
+        "Business": "Anderson Business Resources",
+        "Street": "611 8th Street Unit 2",
         "City": "Greeley",
         "State": "Colorado",
-        "Phone": "(970) 356-1310",
+        "Phone": "(970) 353-3007",
         "Fax": null,
-        "Website": "http://www.1310kfka.com",
+        "Website": null,
         "Description": "\n",
         "Categories": null,
-        "Contact Name": "Damon Sasso",
-        "Contact Email": "damon@1310kfka.com",
-        "Coordinates": "40.424728, -104.696194",
-        "classifications": ["media-web-and-graphic-design","tattoos"],
+        "Contact Name": "John Anderson",
+        "Contact Email": "ancont1@yahoo.com",
+        "Coordinates": "40.424863, -104.687755",
+        "classifications": ["professional-consulting"],
         "relative_path": "_directory/anderson-business-resources.md"
         }
         ,

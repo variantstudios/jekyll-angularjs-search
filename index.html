@@ -20,18 +20,22 @@
 
 <!--   <select data-ng-model="searchBox.classifications" data-ng-options="class.Title for class in classifications">
  -->
-<select ng-model="searchBox.classifications"
-    ng-options="classification.Title for classification in 
-        classifications track by classification.value">
+
+<!-- <select data-ng-model="searchBox.classifications"
+   data-ng-options="classifications.value as classifications for classifications in 
+        classifications track by classifications">
  <option value="">-- Select --</option>
 </select>
-	<p>selected item is : <span data-ng-bind="searchBox.classifications"></span></p>
+ -->
+<select name="repeatSelect" id="repeatSelect" ng-model="searchBox.classifications">
+      <option ng-repeat="option in classifications"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+    </select>
 
-<!--     <select data-ng-model="searchBox.classifications">
-        <option data-ng-repeat="class in classifications" data-ng-bind="class.Title">
-        	<span data-ng-bind="class.Title"></span>
-        </option>
-      </select> -->
+
+<!--  ng-options="opt as opt.label for opt in ctrl.ageOptions track by opt.value">
+ -->
+	<p>selected item is : <span data-ng-bind="searchBox.classifications"></span></p>
+	<p>Search: <span data-ng-bind="searchBox.Business"></span></p>
 
 		<a name="top"></a>
 				<dir-pagination-controls
@@ -50,8 +54,6 @@
 
 				<p data-ng-bind="business.Website" class="website"></p>
 				<p data-ng-bind="business.Phone" class="phone"></p>
-
-				<p data-ng-bind="business.classifications" class="classifications"></p>
 
 				<div data-ng-repeat="item in business.classifications">
 					<p data-ng-bind="item"></p>
