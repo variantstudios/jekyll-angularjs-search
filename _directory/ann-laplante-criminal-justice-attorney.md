@@ -1,16 +1,17 @@
 ---
-Business: 1310 KFKA
+Business: 'Ann LaPlante, Criminal Justice Attorney'
 classifications:
-  - media-web-and-graphic-design
-  - tattoos
-Street: 820 11th Avenue
+  - legal-services
+Street: '710 11th Avenue, E306'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-1310
+Phone: (970) 304-9205
 Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Coordinates: '40.424728, -104.696194'
+Website:
+Contact_Name: Ann LaPlante
+Contact_Email: alaplante@ctos.com
+Coordinates: '40.425761, -104.696171'
 ---
+
+
