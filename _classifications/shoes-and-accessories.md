@@ -1,3 +1,3 @@
 ---
-Title: Shoes and Accessories
+title: Shoes and Accessories
 ---

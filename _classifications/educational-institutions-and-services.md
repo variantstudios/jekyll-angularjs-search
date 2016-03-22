@@ -1,3 +1,3 @@
 ---
-Title: Educational Institutions and Services
+title: Educational Institutions and Services
 ---

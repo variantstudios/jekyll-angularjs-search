@@ -1,3 +1,3 @@
 ---
-Title: Salons and Barber Shops
+title: Salons and Barber Shops
 ---

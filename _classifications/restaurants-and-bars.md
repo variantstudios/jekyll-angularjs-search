@@ -1,3 +1,3 @@
 ---
-Title: "Restaurants and Bars"
+title: "Restaurants and Bars"
 ---

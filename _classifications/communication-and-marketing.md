@@ -1,3 +1,3 @@
 ---
-Title: Communication and Marketing
+title: Communication and Marketing
 ---

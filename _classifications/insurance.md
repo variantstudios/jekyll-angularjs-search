@@ -1,3 +1,3 @@
 ---
-Title: Insurance
+title: Insurance
 ---

@@ -1,3 +1,3 @@
 ---
-Title: Night Life
+title: Night Life
 ---

@@ -1,3 +1,3 @@
 ---
-Title: "Tattoos"
+title: "Tattoos"
 ---

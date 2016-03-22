@@ -1,3 +1,3 @@
 ---
-Title: Equipment and Storage Rental
+title: Equipment and Storage Rental
 ---

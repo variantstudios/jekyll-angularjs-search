@@ -1,3 +1,3 @@
 ---
-Title: Legal Services
+title: Legal Services
 ---

@@ -1,3 +1,3 @@
 ---
-Title: Sewing and Alterations
+title: Sewing and Alterations
 ---

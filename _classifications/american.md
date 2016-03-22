@@ -1,3 +1,3 @@
 ---
-Title: American
+title: American
 ---

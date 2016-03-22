@@ -1,3 +1,3 @@
 ---
-Title: Apparel
+title: Apparel
 ---

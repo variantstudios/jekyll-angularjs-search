@@ -1,3 +1,3 @@
 ---
-Title: "Media, Web and Graphic Design"
+title: "Media, Web and Graphic Design"
 ---

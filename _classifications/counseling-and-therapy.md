@@ -1,3 +1,3 @@
 ---
-Title: Counseling and Therapy
+title: Counseling and Therapy
 ---
